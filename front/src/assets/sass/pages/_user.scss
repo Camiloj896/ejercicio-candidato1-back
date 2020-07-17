@@ -1,0 +1,39 @@
+.user {
+    margin-top: 100px;
+
+    .container-input-user {
+        width: 40%;
+        margin-right: 20px;
+    }
+
+    .container-input-user--margin {
+        margin: 5px 0 !important;
+    }
+
+    .content-table {
+        margin: auto;
+        width: 80%;
+        box-shadow: 0px 1px 10px #aaaaaa;
+    }
+
+    .row-table:hover {
+        background-color: #e2dcdc;
+    }
+
+    .alert-warning {
+        background-color: #f5eebe;
+        border-color: #f5eebe;
+        color: black;
+    }
+
+    .alert-success {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+
+    .modal-content {
+        background-color: brown;
+    }
+
+}
